@@ -33,3 +33,4 @@
 - [武汉理工大学](https://github.com/tsaoyu/WHUT-LaTeX-bachelor)
 - [西安交通大学](https://github.com/Tedxz/xjtuthesis-x/)
 - [郑州大学](https://github.com/tuxify/zzuthesis)
+- [南方科技大学](https://github.com/SUSTC/sustcthesis)
